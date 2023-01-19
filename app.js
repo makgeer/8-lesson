@@ -27,4 +27,4 @@ let filterSizes = document.querySelector('.filterSizes');
 let filterSizeWrap = document.querySelector('.filterSizeWrap');
 filterSizeWrap.addEventListener('click', function() {
     filterSizes.classList.toggle('hidden');
-});
+}); / 
