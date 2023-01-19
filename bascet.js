@@ -1,7 +1,5 @@
 'use strict';
 
-/писал дого
-
 const ggg = document.querySelector('.cartIconWrap span');;
 const basket_hiden = document.querySelector('.basketTotal');
 const basketTotal = document.querySelector('.basketTotalValue');
